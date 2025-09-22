@@ -1,0 +1,7 @@
+CustomerID,Name,Gender,Age,Country,JoinDate
+1,Alice,F,25,india,01-02-2020
+2,bob,male,30,India,2020/03/05
+2,Bob,Male,30,USA,2020-03-05
+3,CHARLIE,M,,us,5 March 2020
+4,David,f,40,Uk,2020-07-01
+,Eve,,22,uk,
