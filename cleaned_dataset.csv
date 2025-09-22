@@ -1,0 +1,5 @@
+CustomerID,Name,Gender,Age,Country,JoinDate
+1,Alice,Female,25,INDIA,01-02-2020
+2,Bob,Male,30,INDIA,05-03-2020
+3,Charlie,Male,30,US,05-03-2020
+4,David,Female,40,UK,01-07-2020
